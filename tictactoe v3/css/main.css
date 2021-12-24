@@ -1,0 +1,305 @@
+* {
+  margin: 0px;
+  font-size: 130px;
+  padding: 0;
+}
+
+body {
+  background: red;
+}
+
+.div {
+  position: absolute;
+  top: 10%;
+  -webkit-transform: translate(5, -50%);
+          transform: translate(5, -50%);
+  padding: 5px;
+  border-left: 5px solid black;
+  height: 370px;
+  position: absoulte;
+  left: 20%;
+  margin-left: -4px;
+  top: 150px;
+}
+
+.div1 {
+  position: absolute;
+  top: 10%;
+  -webkit-transform: translate(5, -50%);
+          transform: translate(5, -50%);
+  padding: 5px;
+  border-right: 5px solid black;
+  height: 370px;
+  position: absoulte;
+  right: 70%;
+  margin-right: -4px;
+  top: 150px;
+}
+
+.div2 {
+  position: absolute;
+  top: 10%;
+  -webkit-transform: translate(10, -50%);
+          transform: translate(10, -50%);
+  padding: 5px;
+  border-top: 5px solid black;
+  width: 400px;
+  position: absoulte;
+  left: 12%;
+  margin-top: -4px;
+  top: 280px;
+}
+
+.div3 {
+  position: absolute;
+  top: 10%;
+  -webkit-transform: translate(10, -50%);
+          transform: translate(10, -50%);
+  padding: 5px;
+  border-top: 5px solid black;
+  width: 400px;
+  position: absoulte;
+  left: 12%;
+  margin-top: -4px;
+  top: 410px;
+}
+
+h2 {
+  color: black;
+  font-family: aller;
+  font-size: 45px;
+}
+
+.container {
+  margin-top: 279px;
+  margin-left: 490px;
+  border: none;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.container1 {
+  position: fixed;
+  margin-top: 280px;
+  margin-left: -270px;
+  border: none;
+  color: green;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button {
+  background-color: red;
+  color: green;
+  position: fixed;
+  width: 130px;
+  height: 130px;
+  left: 465px;
+}
+
+#button1 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 155px;
+  height: 130px;
+  left: 305px;
+}
+
+#idk {
+  color: blue;
+  position: fixed;
+  left: 0px;
+}
+
+#idk1 {
+  color: blue;
+  position: fixed;
+  left: 600px;
+}
+
+.container2 {
+  position: fixed;
+  margin-top: 280px;
+  margin-left: -250px;
+  border: none;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button2 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 119px;
+  height: 130px;
+  left: 184px;
+}
+
+#idk2 {
+  color: blue;
+  position: fixed;
+  left: 450px;
+}
+
+.container3 {
+  position: fixed;
+  margin-top: 149px;
+  margin-left: -250px;
+  border: none;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button3 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 119px;
+  height: 130px;
+  left: 184px;
+}
+
+#idk3 {
+  color: blue;
+  position: fixed;
+  left: 450px;
+}
+
+.container4 {
+  position: fixed;
+  margin-top: 410px;
+  margin-left: -250px;
+  border: none;
+  color: rgba(29, 194, 95, 0.435);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button4 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 119px;
+  height: 120px;
+  left: 184px;
+}
+
+#idk4 {
+  color: blue;
+  position: fixed;
+  left: 450px;
+}
+
+.container5 {
+  position: fixed;
+  margin-top: 410px;
+  margin-left: -250px;
+  border: none;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button5 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 160px;
+  height: 120px;
+  left: 300px;
+}
+
+#idk5 {
+  color: blue;
+  position: fixed;
+  left: 590px;
+}
+
+.container6 {
+  position: fixed;
+  margin-top: 410px;
+  margin-left: -250px;
+  border: none;
+  color: rgba(29, 43, 194, 0.435);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button6 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 136px;
+  height: 120px;
+  left: 460px;
+}
+
+#idk6 {
+  color: blue;
+  position: fixed;
+  left: 725px;
+}
+
+.container7 {
+  position: fixed;
+  margin-top: 151px;
+  margin-left: -230px;
+  border: none;
+  color: rgba(34, 29, 194, 0.435);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button7 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 136px;
+  height: 130px;
+  left: 460px;
+}
+
+#idk7 {
+  color: blue;
+  position: fixed;
+  left: 715px;
+}
+
+.container8 {
+  position: fixed;
+  margin-top: 151px;
+  margin-left: -230px;
+  border: none;
+  color: rgba(29, 194, 95, 0.435);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button8 {
+  background-color: red;
+  color: red;
+  position: fixed;
+  width: 160px;
+  height: 130px;
+  left: 305px;
+}
+
+#idk8 {
+  color: blue;
+  position: fixed;
+  left: 570px;
+}
+/*# sourceMappingURL=main.css.map */
